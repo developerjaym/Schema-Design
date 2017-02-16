@@ -38,3 +38,8 @@ The concept of this assignment is to create a database schema that will represen
   2. A **Person** must have one **Location**
   
 * Write a SQL query that will find all **Person** entries that share at least one **Interest** and have the same **Location**
+  * Create a Stored Procedure from that SQL query
+  
+* Export the schema by using *Tools > Backup...*
+
+* Add the .backup file to your local repository and issue a pull request
