@@ -38,7 +38,7 @@ The concept of this assignment is to create a database schema that will represen
   2. A **Person** must have one **Location**
   
 * Write a SQL query that will find all **Person** entries that share at least one **Interest** and have the same **Location**
-  * Create a Stored Procedure from that SQL query
+  * Create a Stored Procedure based on that SQL query that takes an **Interest** and a **Location** as parameters, and returns a Result Set of all **Person** entries that share that **Interest** and **Location**
   
 * Export the schema by using *Tools > Backup...*
 
