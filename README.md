@@ -31,7 +31,8 @@ The concept of this assignment is to create a database schema that will represen
 3. Interest
   * Id (`Primary Key`)
   * Title
-  
+
+* Set all `Id` fields to be *Auto-Generated Primary Keys*
   
 * Add join columns and tables as neccesary to ensure that
   1. A **Person** can have any number of **Interest**s
